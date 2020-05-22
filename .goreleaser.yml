@@ -18,8 +18,13 @@ builds:
       post:
         - upx "{{ .Path }}"
 
-#env_files:
-#gitlab_token: ~/.config/goreleaser/gitlab_token
+env_files:
+  github_token: ~/.config/goreleaser/github_token
+
+release:
+  github:
+    owner: sebbbastien
+    name: goProgram
 
 checksum:
   name_template: "checksums.txt"
