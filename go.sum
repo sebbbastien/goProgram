@@ -1,2 +1,4 @@
-github.com/sebbbastien/goModuleA v0.0.0-20200522144116-243af3b281d0 h1:rYwi07Opc/1nhRfNg3Nk8lsh5kPRzqgz4fwXIRN8Xog=
-github.com/sebbbastien/goModuleB v0.0.0-20200522144144-0fd0544641ad h1:kRnaLPJiBtDdsS6T9y/mi2nZz9qMqXpBmyuFjs/o/wU=
+github.com/sebbbastien/goModuleA v0.0.1 h1:x83s75jeHR/bQEyLYc0migXb3qDZNjXQb78mzBB8Ptc=
+github.com/sebbbastien/goModuleA v0.0.1/go.mod h1:ErKJiyj5/ygqPVHReYhW7g4LjOiByEQyISAO4L+QgMg=
+github.com/sebbbastien/goModuleB v0.0.2 h1:iMohAmFgxEkq+RgTUp9+Fr4T69B6tKqzf3VitVLSeV4=
+github.com/sebbbastien/goModuleB v0.0.2/go.mod h1:AWIupl0oYxOACIFVm9lgAS7X64ViDaHFcTso/5QdwXc=
