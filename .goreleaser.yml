@@ -20,6 +20,10 @@ builds:
 
 #env_files:
 #gitlab_token: ~/.config/goreleaser/gitlab_token
+release:
+  github:
+    owner: sebbbastien
+    name: goProgram
 
 checksum:
   name_template: "checksums.txt"
