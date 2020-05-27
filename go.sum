@@ -1,4 +1,8 @@
 github.com/sebbbastien/goModuleA v0.0.1 h1:x83s75jeHR/bQEyLYc0migXb3qDZNjXQb78mzBB8Ptc=
 github.com/sebbbastien/goModuleA v0.0.1/go.mod h1:ErKJiyj5/ygqPVHReYhW7g4LjOiByEQyISAO4L+QgMg=
+github.com/sebbbastien/goModuleA v0.2.0 h1:3kIYB5KYo6zDx0ShH/WA1Tr837Q+CxFLhBPjAT2Khoc=
+github.com/sebbbastien/goModuleA v0.2.0/go.mod h1:ErKJiyj5/ygqPVHReYhW7g4LjOiByEQyISAO4L+QgMg=
 github.com/sebbbastien/goModuleB v0.0.2 h1:iMohAmFgxEkq+RgTUp9+Fr4T69B6tKqzf3VitVLSeV4=
 github.com/sebbbastien/goModuleB v0.0.2/go.mod h1:AWIupl0oYxOACIFVm9lgAS7X64ViDaHFcTso/5QdwXc=
+github.com/sebbbastien/goModuleB v0.3.0 h1:ZNAG2wjRwvEp6yHUrV8DQ3ijJz3CiBoOfKKO0iiraa0=
+github.com/sebbbastien/goModuleB v0.3.0/go.mod h1:AWIupl0oYxOACIFVm9lgAS7X64ViDaHFcTso/5QdwXc=

@@ -18,6 +18,17 @@ builds:
       post:
         - upx "{{ .Path }}"
 
+  - env:
+      - CGO_ENABLED=0
+    main: subfolder/mainA.go subfolder/shared.go
+    goos:
+      - linux
+    goarch:
+      - amd64
+    hooks:
+      post:
+        - upx "{{ .Path }}"
+
 env_files:
   github_token: ~/.config/goreleaser/github_token_custom
 
